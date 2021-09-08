@@ -1,0 +1,53 @@
+"medicines": [
+
+{
+
+"ID":"1",
+
+"Title": "MULTAQ®",
+
+"Pr_SubTitle": "Lorem Ipsumv",
+
+"Pr_GBU": "General Medicines",
+
+"Pr_Division": "Cardiovascular",
+
+"Pr_Order": "1",
+
+"Pr_Image": "<img alt='' src='/sites/MAVP/MULTAQ/multaq_logo.png' style='BORDER: 0px solid; '>",
+
+"Pr_LifeCycle": "Late stage Product",
+
+"Pr_Phase": "Dronedarone Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+
+"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+},
+
+{
+
+"ID":"2",
+
+"Title": "MULTAQ®",
+
+"Pr_SubTitle": "Lorem Ipsumv",
+
+"Pr_GBU": "General Medicines",
+
+"Pr_Division": "Cardiovascular",
+
+"Pr_Order": "1",
+
+"Pr_Image": "<img alt='' src='/sites/MAVP/MULTAQ/multaq_logo.png' style='BORDER: 0px solid; '>",
+
+"Pr_LifeCycle": "Early stage Product",
+
+"Pr_Phase": "Dronedarone Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+
+"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+}
+
+]
+
+}
