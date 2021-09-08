@@ -1,0 +1,35 @@
+{
+
+"users": [
+
+{
+
+"empId": "1",
+
+"empName": "Jamie Glenworth",
+
+"password": "password123",
+
+"role": "admin",
+
+"email":"paul.johnson@xyz.com"
+
+},
+
+{
+
+"empId": "2",
+
+"empName": "James Mark",
+
+"password": "pwd123",
+
+"role": "user",
+
+"email":"mark.james@xyz.com"
+
+}
+
+]
+
+}
